@@ -1,0 +1,45 @@
+> Atributos da Empresa:
+	> Razão Social:
+	> Nome Fantasia:
+	> CNPJ:
+	> Período:
+
+> Modelo do Balancete de Verificação:
+
+O Balancete de Verificação irá conter as seguintes contas:
+
+	> Ativos:
+		> Ativos Circulantes;
+		> Ativos não Circulantes;
+
+	> Passivos:
+		> Passivos Circulantes;
+		> Passivos não Circulantes;
+
+	> Patrimônio Líquido:
+
+	> Despesas
+
+	> Receitas
+
+Além disso, irá conter:
+
+	> Código da conta;
+	> Nome da Conta;
+	> Saldo anterior;
+	> Débitos;
+	> Créditos;
+	> Saldo Atual (C/D);
+	> Resumo.
+
+> Atributos das Contas:
+
+Para determinado lançamento das contas contábeis, é necessário os seguintes dados:
+
+	> Código da conta;
+	> Nome da conta;
+	> Data do lançamento;
+	> Histórico do lançamento;
+	> Valor debitado;
+	> Valor creditado;
+	> Saldo devedor/credor
