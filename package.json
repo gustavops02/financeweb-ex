@@ -1,0 +1,11 @@
+{
+  "name": "appfinance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gustavops02/financeweb-ex.git",
+  "author": "Gustavo Paulo <gustavo.psilvaa02@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
